@@ -12,7 +12,7 @@ After simulating Op-RCPP, [here](https://github.com/ndamtruong2k/Statistical-sim
 After simulating nonOp-RCPP, [here](https://github.com/ndamtruong2k/Statistical-simulation-results-of-the-multi-UAV-coverage-strategy/tree/main/Bad) are the results.
 
 After simulating Grid-based, [here](https://github.com/ndamtruong2k/Statistical-simulation-results-of-the-multi-UAV-coverage-strategy/tree/main/Grid) are the results.
-## 
+## The statistics
 Statistical simulation results of the multi-UAV coverage strategy using V-shaped formation with 3, 5, 7 UAVs, and different coverage paths.
 ### Sweep coverage rate 
 ![coverage_rate](https://github.com/ndamtruong2k/Statistical-simulation-results-of-the-multi-UAV-coverage-strategy/blob/main/CoveragePer.pdf)
